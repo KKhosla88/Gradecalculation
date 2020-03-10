@@ -4,11 +4,12 @@ public class NullMarksArrayException extends Exception
 {
 	public String toString()
 	{
-		return("NullMArksArrayException occured"); 
+		return("NullMArksArrayException occured");
 	}
 
-	//public NullMarksArrayException() {
+	//public NullMarksArrayException() 
+	{
 		// TODO Auto-generated constructor stub
-	//}
+	}
 
 }
