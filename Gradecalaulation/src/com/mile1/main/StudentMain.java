@@ -16,8 +16,8 @@ public class StudentMain
 		{
 			data[i]=new Student();
 		}
-		data[0]=new Student("Sachin",new int[] {79,70,70});
-		data[1]=new Student(null,new int[] {11,22,33});
+		data[0]=new Student("Sachin",new int[] {60,70,90});
+		data[1]=new Student(null,new int[] {18,24,33});
 		data[2]=null;
 		data[3]=new Student("Madhav",null);
 	}
