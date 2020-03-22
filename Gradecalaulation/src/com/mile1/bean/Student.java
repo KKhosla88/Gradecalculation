@@ -7,8 +7,8 @@ public class Student
  public Student(){}
  public Student(String name,int marks[])
  {
-	 this.name=name;
-	 this.marks=marks;
+	 this.name=name;            //catches given names
+	 this.marks=marks;          //catches provided marks
  }
  public String getname()
  {
